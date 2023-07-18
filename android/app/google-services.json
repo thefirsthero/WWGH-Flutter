@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "157607792780",
+        "project_id": "guest-house-jnuta",
+        "storage_bucket": "guest-house-jnuta.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:157607792780:android:300bd3ebf5470516f86ba9",
+            "android_client_info": {
+                "package_name": "com.example.guest_house_app"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "157607792780-e3bl6k15lc42l6sg68159mdbt936q01o.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "com.example.guest_house_app",
+                    "certificate_hash": "1179951691410f0d4a068c2f4468ab7633de7287"
+                }
+            },
+            {
+                "client_id": "157607792780-11r04cdn9ilqsos8aheh8a9rocoigj4l.apps.googleusercontent.com",
+                "client_type": 3
+            }
+        ],
+        "api_key": [{
+            "current_key": "AIzaSyBt72LY8ucaSqbBTpEJry_k-jKvjDfYh5k"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "157607792780-11r04cdn9ilqsos8aheh8a9rocoigj4l.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
